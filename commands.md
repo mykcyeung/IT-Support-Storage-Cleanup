@@ -1,0 +1,2 @@
+clearmgr
+wsreset
