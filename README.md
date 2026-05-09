@@ -23,7 +23,7 @@
 * Freed significant disk space
 * Improved system performance
 
-## 💡 Key Skills Demonstrated
+## 💡 Key Skills
 
 * Troubleshooting disk space issues
 * Safe file system management
