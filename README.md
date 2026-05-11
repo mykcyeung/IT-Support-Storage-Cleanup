@@ -11,6 +11,9 @@
 ## 📊 Task Manager check (CPU + RAM)
 
 * CPU
+ * Temporary files
+  * Thumbnails
+  * DirectX shader cache
  * Chrome was using a lot of CPU (around 80–90%)
  * Lots of tabs and background stuff running
 * RAM (Memory)
