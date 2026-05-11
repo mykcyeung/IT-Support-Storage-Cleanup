@@ -21,6 +21,12 @@
 * Disk
   * Disk usage was spiking sometimes
   * Mostly caused by background processes and cached files
+ 
+## 🚀 Startup Apps Check
+
+* Went to the Startup tab in Task Manager
+* Found a few apps launching automatically on startup.
+* These were slowing down boot time and using memory in the background
 
 
 ## 🛠️ Actions Taken
